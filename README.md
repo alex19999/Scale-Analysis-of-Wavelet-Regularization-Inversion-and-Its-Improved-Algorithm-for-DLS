@@ -6,9 +6,8 @@ This is a student project in computational mathematics based on the article "Sca
 
 Main contributers to the project are MIPT students
 
-1. Alexander Misevich
-
-2. Denis Los
+1. [Alexander Misevich](https://github.com/alex19999)
+2. [Denis Los](https://github.com/denislos)
 
 ## Current progress ##
 
