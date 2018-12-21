@@ -9,14 +9,6 @@ Main contributers to the project are MIPT students
 1. [Alexander Misevich](https://github.com/alex19999)
 2. [Denis Los](https://github.com/denislos)
 
-## Current progress ##
-
-|Problem|Status|
-|:-----:|:----:|
-|Create a repo|***✓***|
-|Initial signal generation|***✓***|
-|Full implementation of WRIM|In Process|
-
 ## Literature ##
 1. Wang, Ya-Jing & Shen, Jin & Yuan, Xi & Dou, Zhenhai & Liu, Wei & Mao, Shuai. (2018). Scale Analysis of Wavelet Regularization Inversion and Its Improved Algorithm for Dynamic Light Scattering. Applied Sciences. 8. 1473. 10.3390/app8091473.
 
